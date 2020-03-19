@@ -1,0 +1,45 @@
+html body {
+  background-color: hsla(197, 100%, 81%, 0.89);
+  font-size: 16px;
+}
+
+/* Text */
+
+nav {
+  display: flex;
+  justify-content: center;
+  font-family: cursive;
+}
+
+ul a {
+  color: black;
+}
+
+main h3 {
+  text-align: center;
+  font-family: cursive;
+  font-size: 2rem;
+}
+
+/* Images */
+
+.images {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  margin: 0 auto;
+  width: 30%;
+  margin-top: 5%;
+}
+
+.kitten-1 {
+  margin-bottom: 2%;
+}
+
+.kitten-2 {
+  margin-bottom: 2%;
+}
+
+.kitten-3 {
+
+}
