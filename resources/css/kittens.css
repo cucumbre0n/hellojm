@@ -5,6 +5,10 @@ html body {
 
 /* Text */
 
+header {
+  height: 60px;
+}
+
 nav {
   display: flex;
   justify-content: center;
