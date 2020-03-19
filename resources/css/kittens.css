@@ -16,13 +16,13 @@ span {
   display: inline-block;
 }
 
+ul li {
+  list-style-type: none;
+}
+
 ul a {
   color: black;
   display: inline-block;
-}
-
-ul li {
-  list-style-type: none;
 }
 
 main h3 {
