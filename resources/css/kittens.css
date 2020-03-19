@@ -9,10 +9,16 @@ nav {
   display: flex;
   justify-content: center;
   font-family: cursive;
+  align-items: baseline;
+}
+
+span {
+  display: inline-block;
 }
 
 ul a {
   color: black;
+  display: inline-block;
 }
 
 ul li {
