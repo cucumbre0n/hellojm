@@ -29,17 +29,22 @@ main h3 {
   flex-direction: column;
   margin: 0 auto;
   width: 30%;
-  margin-top: 5%;
+  margin-top: 3%;
 }
 
 .kitten-1 {
   margin-bottom: 2%;
+  border: 5px solid pink;
+  border-radius: 5%
 }
 
 .kitten-2 {
   margin-bottom: 2%;
+  border: 5px solid pink;
+  border-radius: 5%
 }
 
 .kitten-3 {
-
+  border: 5px solid pink;
+  border-radius: 5%
 }
