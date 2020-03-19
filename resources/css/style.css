@@ -1,3 +1,44 @@
 html body {
   background-color: hsla(316, 100%, 91%, 0.89);
+  font-size: 16px;
+}
+
+/* Header */
+
+header {
+  height: 60px;
+}
+
+nav {
+  display: flex;
+  justify-content: center;
+  font-family: cursive;
+  align-items: baseline;
+}
+
+span {
+  display: inline-block;
+}
+
+ul li {
+  list-style-type: none;
+}
+
+ul a {
+  color: black;
+  display: inline-block;
+}
+
+/* Main */
+
+.hello {
+  font-family: verdana, cursive;
+  font-size: 1.5rem;
+  text-align: center;
+}
+
+article {
+  margin-top: 7%;
+  font-family: verdana, serif;
+  text-align: center;
 }
