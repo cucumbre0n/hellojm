@@ -7,21 +7,27 @@ html body {
 
 header {
   height: 60px;
+  font-family: cursive;
 }
 
 nav {
-  display: flex;
-  justify-content: center;
-  font-family: cursive;
-  align-items: baseline;
+  margin: 0 32%;
 }
 
 span {
-  display: inline-block;
+  display: block;
+  text-align: center;
+  padding-right: 5%;
+  font-size: 1.2rem;
+}
+
+nav ul {
+  display: flex;
 }
 
 ul li {
   list-style-type: none;
+  padding: 0 2%;
 }
 
 ul a {
@@ -32,13 +38,14 @@ ul a {
 /* Main */
 
 .hello {
+  margin-top: 10%;
   font-family: verdana, cursive;
   font-size: 1.5rem;
   text-align: center;
 }
 
 article {
-  margin-top: 7%;
+  margin-top: 2%;
   font-family: verdana, serif;
   text-align: center;
 }
