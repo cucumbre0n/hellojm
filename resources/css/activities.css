@@ -109,12 +109,19 @@ ul a {
 .national-parks {
   width: 60%;
   margin-left: 20%;
+  margin-right: 25%;
 }
 
 .national-parks h1 {
   font-family: cursive;
   font-size: 2rem;
   text-align: center;
+}
+
+.national-parks p {
+  width: 75%;
+  margin-left: 15%;
+  margin-right: 20%;
 }
 
 /*=============*/
