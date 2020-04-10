@@ -1,0 +1,264 @@
+/* Universal Styles */
+
+html body {
+  background-color: hsla(152, 48%, 71%, 0.82);
+  font-size: 16px;
+}
+
+@font-face {
+  font-family: 'Comic Neue';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: local('Comic Neue Italic'), local('ComicNeue-Italic'),
+  url(https://fonts.gstatic.com/s/comicneue/v1/4UaFrEJDsxBrF37olUeD96_Z5btxAQFOPg.woff2)
+  format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA,
+  U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215,
+  U+FEFF, U+FFFD;
+}
+
+@font-face {
+  font-family: 'Comic Neue';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('Comic Neue Regular'), local('ComicNeue-Regular'),
+  url(https://fonts.gstatic.com/s/comicneue/v1/4UaHrEJDsxBrF37olUeD96rp57F2IwM.woff2)
+  format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA,
+  U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215,
+  U+FEFF, U+FFFD;
+}
+
+/* Header */
+
+header {
+  height: 30px;
+  font-family: cursive;
+}
+
+nav {
+  margin: 0 32%;
+}
+
+span {
+  display: block;
+  text-align: center;
+  padding-right: 5%;
+  font-size: 1.2rem;
+}
+
+nav ul {
+  display: flex;
+}
+
+ul li {
+  list-style-type: none;
+  padding: 0 2%;
+}
+
+ul a {
+  color: black;
+  display: inline-block;
+}
+
+
+/* Main */
+/*=============*/
+
+/* Intro */
+
+.intro {
+  margin-top: 5%;
+  text-align: center;
+}
+
+.intro h1 {
+  font-family: cursive;
+  font-size: 2.5rem;
+  margin-bottom: 0;
+}
+
+.intro h3 {
+  margin-top: 0;
+  font-family: "Comic Neue", sans-serif;
+
+}
+
+/*=============*/
+
+/* Activities Overall */
+
+.activities {
+  font-family: "Comic Neue", sans-serif;
+}
+
+.activities a {
+  color: black;
+}
+
+/*=============*/
+
+/* National Parks */
+
+.virtual-parks {
+  margin-top: 6%;
+}
+
+.national-parks {
+  width: 60%;
+  margin-left: 20%;
+}
+
+.national-parks h1 {
+  font-family: cursive;
+  font-size: 2rem;
+  text-align: center;
+}
+
+/*=============*/
+
+/* Museums */
+
+.virtual-museums {
+  margin-top: 6%;
+  width: 60%;
+  margin-left: 20%;
+  margin-right: 25%;
+}
+
+.museums h1 {
+  text-align: center;
+  font-family: cursive;
+}
+
+.museums li {
+  margin-top: 2%;
+  width: 60%;
+  padding-left: 20%;
+}
+
+/*=============*/
+
+/* Virtual Field Trips Overall */
+
+.virtual-trips {
+  margin-top: 6%;
+  width: 60%;
+  margin-left: 20%;
+  margin-right: 25%;
+}
+
+.virtual-trips h1 {
+  font-family: cursive;
+  font-size: 2rem;
+  text-align: center;
+}
+
+.virtual-trips h3 {
+  text-align: center;
+  font-size: 1.5rem;
+}
+
+/*=============*/
+
+/* Virtual Field Trips */
+
+.field-trips {
+
+}
+
+.field-trips p {
+  font-size: 1.5rem;
+}
+
+/*=============*/
+
+/* Zoos */
+
+.zoos {
+  margin-top: 6%;
+}
+
+.zoos p {
+  width: 75%;
+  margin-left: 15%;
+  margin-right: 20%;
+}
+
+/*=============*/
+
+/* Other */
+
+.virtual-mars {
+  margin-top: 3%;
+}
+
+.mars h1 {
+  margin: 0;
+}
+
+.mars p {
+  width: 75%;
+  margin-left: 15%;
+  margin-right: 20%;
+}
+
+.virtual-farms {
+  margin-top: 10%;
+}
+
+.farms h1 {
+  margin: 0;
+}
+
+.farms p {
+  width: 75%;
+  margin-left: 15%;
+  margin-right: 20%;
+}
+
+.virtual-rocket {
+  margin-top: 10%;
+}
+
+.rocket h1 {
+  margin: 0;
+}
+
+.rocket p{
+  width: 75%;
+  margin-left: 15%;
+  margin-right: 20%;
+}
+
+.virtual-wall {
+  margin-top: 10%;
+}
+
+.great-wall h1{
+  margin: 0;
+}
+
+.great-wall p {
+  width: 75%;
+  margin-left: 15%;
+  margin-right: 20%;
+}
+
+.virtual-kidsmuseum {
+  margin-top: 10%;
+}
+
+.kidsmuseum h1 {
+ margin: 0;
+}
+
+.kidsmuseum p {
+  width: 75%;
+  margin-left: 15%;
+  margin-right: 20%;
+}
+
+/*=============*/
