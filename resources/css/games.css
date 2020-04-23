@@ -1,0 +1,44 @@
+html body {
+  background-color: black;
+  font-size: 16px;
+  color: white;
+}
+
+/* Header */
+
+header {
+  height: 60px;
+  font-family: cursive;
+}
+
+nav {
+  margin: 0 32%;
+}
+
+span {
+  display: block;
+  text-align: center;
+  padding-right: 5%;
+  font-size: 1.2rem;
+}
+
+nav ul {
+  display: flex;
+}
+
+ul li {
+  list-style-type: none;
+  padding: 0 2%;
+}
+
+ul a {
+  color: black;
+  display: inline-block;
+  color: white;
+}
+
+/* Main */
+
+main h1 {
+  font-family: cursive;
+}
