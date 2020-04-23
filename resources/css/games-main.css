@@ -1,0 +1,64 @@
+html body {
+  background-color: hsla(289, 89%, 62%, 0.48);
+  font-size: 16px;
+}
+
+/* Header */
+
+header {
+  height: 60px;
+  font-family: cursive;
+}
+
+nav {
+  margin: 0 32%;
+}
+
+span {
+  display: block;
+  text-align: center;
+  padding-right: 5%;
+  font-size: 1.2rem;
+}
+
+nav ul {
+  display: flex;
+}
+
+ul li {
+  list-style-type: none;
+  padding: 0 2%;
+}
+
+ul a {
+  color: black;
+  display: inline-block;
+}
+
+/* Main */
+
+.hello {
+  margin-top: 10%;
+  font-family: verdana, cursive;
+  font-size: 1.5rem;
+  text-align: center;
+}
+
+article {
+  margin-top: 2%;
+  font-family: verdana, serif;
+  text-align: center;
+}
+
+.temp {
+  margin-top: 2%
+}
+
+.portfolio {
+  margin-top: 5%;
+}
+
+main li {
+  font-size: 1.5rem;
+  font-family: cursive;
+}
