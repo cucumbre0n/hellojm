@@ -37,28 +37,30 @@ ul a {
 
 /* Main */
 
-.hello {
-  margin-top: 10%;
-  font-family: verdana, cursive;
+main {
+  margin-top: 5%;
+}
+
+main h1 {
+  font-family: cursive;
+  text-align: center;
+}
+
+article p {
+  margin-top: 2%;
+  font-family: cursive;
   font-size: 1.5rem;
   text-align: center;
-}
-
-article {
-  margin-top: 2%;
-  font-family: verdana, serif;
-  text-align: center;
-}
-
-.temp {
-  margin-top: 2%
-}
-
-.portfolio {
-  margin-top: 5%;
 }
 
 main li {
   font-size: 1.5rem;
-  font-family: cursive;
+  font-family: verdana, serif;
+  text-align: center;
+}
+
+main a {
+  list-style-type: none;
+  width: 30%;
+  line-height: 1.5;
 }
