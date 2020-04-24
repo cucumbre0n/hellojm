@@ -41,4 +41,16 @@ ul a {
 
 main h1 {
   font-family: cursive;
+  text-align: center;
+  margin: 5% 0;
+}
+
+.game {
+
+}
+
+.game-pane {
+  display: flex;
+  justify-content: center;
+  align-content: center;
 }
