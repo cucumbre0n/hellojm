@@ -55,12 +55,12 @@ article p {
 
 main li {
   font-size: 1.5rem;
-  font-family: verdana, serif;
+  font-family: cursive;
   text-align: center;
 }
 
 main a {
   list-style-type: none;
-  width: 30%;
+  width: 35%;
   line-height: 1.5;
 }
