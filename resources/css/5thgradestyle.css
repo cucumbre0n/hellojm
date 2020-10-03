@@ -68,3 +68,9 @@ ul a {
   margin-right: 5%;
   font-family: cursive, serif;
 }
+
+.list ul li {
+  align-items: center;
+  align-content: center;
+  text-align: center;
+}
