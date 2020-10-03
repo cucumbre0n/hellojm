@@ -62,3 +62,9 @@ ul a {
   color: black;
   display: inline-block;
 }
+
+.list h1 {
+  margin-left: 5%;
+  margin-right: 5%;
+  font-family: cursive, serif;
+}
