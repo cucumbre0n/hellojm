@@ -53,12 +53,12 @@ nav ul {
   display: flex;
 }
 
-ul li {
+nav ul li {
   list-style-type: none;
   padding: 0 2%;
 }
 
-ul a {
+nav ul a {
   color: black;
   display: inline-block;
 }
@@ -77,11 +77,11 @@ main h1 {
   font-family: serif;
 }
 
-main ul {
+.list ul {
   margin-right: 20%;
 }
 
-main ul li {
+.list ul li {
   align-items: center;
   align-content: center;
   text-align: center;
