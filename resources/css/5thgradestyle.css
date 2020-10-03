@@ -63,13 +63,13 @@ ul a {
   display: inline-block;
 }
 
-.list h1 {
+main h1 {
   margin-left: 5%;
   margin-right: 5%;
   font-family: cursive, serif;
 }
 
-.list ul li {
+main ul li {
   align-items: center;
   align-content: center;
   text-align: center;
