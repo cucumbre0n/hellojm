@@ -77,10 +77,14 @@ main h1 {
 
 .list ul {
   margin-right: 20%;
+  align-content: center;
 }
 
 .list ul li {
   align-items: center;
-  align-content: center;
-  text-align: center;
+  list-style-type: none;
+}
+
+.list ul li {
+  color: black;
 }
