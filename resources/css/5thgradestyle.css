@@ -1,6 +1,6 @@
 /* Universal Styles */
 html body {
-  background-color: hsla(152, 48%, 71%, 0.82);
+  background-color: light green;
   font-family: 'Comic Neue';
   font-style: normal;
   font-weight: 400;
@@ -32,13 +32,6 @@ html body {
   U+FEFF, U+FFFD;
 }
 
-/* Header */
-
-header {
-  height: 30px;
-  font-family: cursive;
-}
-
 nav {
   margin: 0 32%;
 }
@@ -63,28 +56,3 @@ ul a {
   color: black;
   display: inline-block;
 }
-
-
-/* Main */
-/*=============*/
-
-/* Intro */
-
-.intro {
-  margin-top: 5%;
-  text-align: center;
-}
-
-.intro h1 {
-  font-family: cursive;
-  font-size: 2.5rem;
-  margin-bottom: 0;
-}
-
-.intro h3 {
-  margin-top: 0;
-  font-family: "Comic Neue", sans-serif;
-
-}
-
-/*=============*/
