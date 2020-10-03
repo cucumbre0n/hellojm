@@ -63,6 +63,12 @@ ul a {
   display: inline-block;
 }
 
+/* Main */
+
+main {
+  margin-top: 6%;
+}
+
 main h1 {
   margin-left: 25%;
   margin-right: 25%;
