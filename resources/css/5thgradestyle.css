@@ -69,6 +69,8 @@ main {
   margin-top: 6%;
   width: 50%;
   font-family: serif;
+  align-content: center;
+  align-items: center;
 }
 
 .list h1 {
