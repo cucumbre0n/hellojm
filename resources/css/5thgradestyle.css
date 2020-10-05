@@ -2,12 +2,8 @@
 
 html body {
   background-color: hsla(152, 48%, 71%, 0.82);
-<<<<<<< HEAD
   font-size: 18px;
   font-family: serif;
-=======
-  font-size: 16px;
->>>>>>> 5c457b13a0323ce76f32cae2028ee9a0390d783f
 }
 
 @font-face {
@@ -40,30 +36,19 @@ html body {
 
 header {
   height: 30px;
-<<<<<<< HEAD
   font-family: "Comic Neue";
-=======
-  font-family: cursive;
->>>>>>> 5c457b13a0323ce76f32cae2028ee9a0390d783f
 }
 
 nav {
   margin: 0 32%;
 }
 
-<<<<<<< HEAD
 nav span {
-=======
-span {
->>>>>>> 5c457b13a0323ce76f32cae2028ee9a0390d783f
   display: block;
   text-align: center;
   padding-right: 5%;
   font-size: 1.2rem;
-<<<<<<< HEAD
   font-style: italic;
-=======
->>>>>>> 5c457b13a0323ce76f32cae2028ee9a0390d783f
 }
 
 nav ul {
@@ -83,20 +68,13 @@ nav ul a {
 /* Main */
 
 main {
-<<<<<<< HEAD
   margin: 10% 32%;
   width: 50%;
-=======
-  margin-top: 6%;
-  width: 50%;
-  font-family: serif;
->>>>>>> 5c457b13a0323ce76f32cae2028ee9a0390d783f
   align-content: center;
   align-items: center;
 }
 
 .list h1 {
-<<<<<<< HEAD
   width: 75%;
   text-align: center;
 }
@@ -125,23 +103,4 @@ main {
   font-family: san-serif;
   font-size: 28px;
   text-decoration: underline;
-=======
-  width: 60%;
-  text-align: center;
-  font-family: serif;
-}
-
-.list ul {
-  margin-right: 20%;
-  align-content: center;
-}
-
-.list ul li {
-  align-items: center;
-  list-style-type: none;
-}
-
-.list ul li {
-  color: black;
->>>>>>> 5c457b13a0323ce76f32cae2028ee9a0390d783f
 }
