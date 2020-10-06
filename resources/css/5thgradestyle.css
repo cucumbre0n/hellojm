@@ -53,6 +53,7 @@ nav span {
 
 nav ul {
   display: flex;
+  flex-wrap: wrap;
 }
 
 nav ul li {
