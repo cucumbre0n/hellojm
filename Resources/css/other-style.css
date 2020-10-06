@@ -1,0 +1,36 @@
+html body {
+  
+}
+
+/* Header */
+
+header {
+  height: 60px;
+  font-family: cursive;
+}
+
+nav {
+  margin: 0 32%;
+}
+
+span {
+  display: block;
+  text-align: center;
+  padding-right: 5%;
+  font-size: 1.2rem;
+}
+
+nav ul {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+ul li {
+  list-style-type: none;
+  padding: 0 2%;
+}
+
+ul a {
+  color: black;
+  display: inline-block;
+}
