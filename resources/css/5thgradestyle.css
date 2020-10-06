@@ -96,12 +96,15 @@ main {
 .list ul li {
   list-style-type: none;
   margin-right: 25%;
-  width: 100%;
+  width: 95%;
 }
 
 .list ul a {
   color: black;
-  font-family: san-serif;
-  font-size: 28px;
   text-decoration: underline;
+}
+
+.list h4 {
+  font-family: san-serif;
+  font-size: 26px;
 }
