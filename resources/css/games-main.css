@@ -8,6 +8,7 @@ html body {
 header {
   height: 60px;
   font-family: cursive;
+  margin-bottom: 6%;
 }
 
 nav {
@@ -52,6 +53,7 @@ article p {
   font-family: cursive;
   font-size: 1.5rem;
   text-align: center;
+  padding: 0 27%;
 }
 
 main li {
