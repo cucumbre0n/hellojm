@@ -1,5 +1,5 @@
 body {
-  background-color: hsla(186, 93%, 57%, 0.89);
+  background-color: light blue;
 }
 
 /* Header */
@@ -36,7 +36,7 @@ nav ul a {
 }
 
 main {
-
+  margin-top: 8%;
 }
 
 .other-list {
@@ -48,5 +48,10 @@ main {
 }
 
 .other-list ul li {
+  list-style-type: none;
+}
 
+.other-list ul li a {
+  color: black;
+  text-decoration: underline;
 }
