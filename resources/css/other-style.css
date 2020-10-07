@@ -50,6 +50,7 @@ main {
 .other-list span {
   display: inline-block;
 	padding-left: 10%;
+  margin-left: 18%;
 }
 
 .other-list ul {
@@ -58,6 +59,7 @@ main {
     flex-wrap: wrap;
     justify-content: space-between;
     flex-direction: row;
+    margin-left: 15%;
 }
 
 .other-list ul li {
