@@ -48,8 +48,8 @@ main {
 }
 
 .other-list span {
-    display: inline-block;
-    text-align: center;
+  display: inline-block;
+	padding-left: 10%;
 }
 
 .other-list ul {
