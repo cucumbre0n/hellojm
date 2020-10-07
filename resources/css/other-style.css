@@ -35,16 +35,29 @@ nav ul a {
   display: inline-block;
 }
 
+/* Main */
+
 main {
-  margin-top: 8%;
+	margin-top: 8%;
+    display: flex;
+    justify-content: center;
 }
 
 .other-list {
+	display: inline;
+}
 
+.other-list span {
+    display: inline-block;
+    text-align: center;
 }
 
 .other-list ul {
-
+    width: 60%;
+	display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    flex-direction: column;
 }
 
 .other-list ul li {
