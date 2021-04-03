@@ -125,7 +125,7 @@
 }
 
 html body {
-  background-image: radial-gradient(red, orange, yellow, green, blue, purple);
+  background-image: linear-gradient(red, orange, yellow, green, blue, purple);
   font-size: 16px;
   margin: 0 auto;
   width: 100%;
@@ -159,14 +159,12 @@ nav ul {
 
 ul li {
   list-style-type: none;
-
 }
 
 ul a {
   text-decoration: underline;
   color: black;
   margin: 0 auto;
-
 }
 
 /* Main */
