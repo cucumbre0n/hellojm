@@ -125,22 +125,13 @@
 }
 
 html body {
-  background-image: linear-gradient(red, orange, yellow, green, blue, purple);
+  background-image: radial-gradient(red, orange, yellow, green, blue, purple);
   font-size: 16px;
   margin: 0 auto;
   width: 100%;
   height: 900px;
   overflow: hidden;
 }
-/* Fix navigation width
-  Fix width to modify properly with device width
-  Add hover transitions to Navigation
-  Change navigation font
-    Grab a set of fonts from Google
-  Add borders
-  Modify hr border width
-  Change background color
-  Include transparent background image*/
 
 /* Header */
 header {
