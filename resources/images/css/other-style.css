@@ -1,0 +1,71 @@
+body {
+  background-color: hsla(179, 53%, 61%, 0.55);
+}
+
+/* Header */
+
+header {
+  height: 60px;
+  font-family: cursive;
+}
+
+nav {
+  margin: 0 32%;
+}
+
+nav span {
+  display: block;
+  text-align: center;
+  padding-right: 5%;
+  font-size: 1.2rem;
+}
+
+nav ul {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+nav ul li {
+  list-style-type: none;
+  padding: 0 2%;
+}
+
+nav ul a {
+  color: black;
+  display: inline-block;
+}
+
+/* Main */
+
+main {
+	margin-top: 8%;
+    display: flex;
+    justify-content: center;
+}
+
+.other-list {
+	display: inline;
+}
+
+.other-list span {
+  display: inline-block;
+  margin-left: 18%;
+}
+
+.other-list ul {
+    width: 60%;
+	display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    flex-direction: row;
+    margin-left: 15%;
+}
+
+.other-list ul li {
+  list-style-type: none;
+}
+
+.other-list ul li a {
+  color: black;
+  text-decoration: underline;
+}
